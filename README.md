@@ -1,4 +1,4 @@
-<h1>Nombre del Proyecto</h1>
+<h1>Imagenes de paises </h1>
 proyecto realizado con backend node.js frontend react.js y manejo de base de datos con postgresql
 
 <h1>Requisitos Previos</h1>
